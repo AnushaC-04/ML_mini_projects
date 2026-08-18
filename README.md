@@ -6,7 +6,7 @@
 
 **Python • Pandas • NumPy • Scikit-learn • Machine Learning**
 
-</div>
+</div> 
 
 ---
 
