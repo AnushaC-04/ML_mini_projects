@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Mini Projects
 
-<div align="center">
+<div align="center"> 
 
 ### 🚀 Learning Machine Learning Through Hands-On Projects
 
